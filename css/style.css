@@ -166,7 +166,7 @@ a.btn {
     background-color: #00299bc9;
     color: #fff;
     border-radius: 10px;
-    font: 400 16px/26px 'Dorsa', sans-serif;
+    font: 400 26px/26px 'Dorsa', sans-serif;
 }
 
 .page1 a.btn {
@@ -244,13 +244,11 @@ header {
 
 }
 
-
 header h1 {
 	position: relative;
 	text-align: center;
     float: left;
 }
-
 
 header h1 a {
 	display: inline-block;
@@ -382,7 +380,6 @@ a.gal img {
     width: 100%;
     box-shadow: 0 0 0 #fff;
 }
-
 
 a.gal:hover img {
     opacity: 0.2;
